@@ -1,0 +1,6 @@
+{
+	"sms_url":"http://enterprise.smsgupshup.com/GatewayAPI/rest",
+	"sms_username":"2000152251",
+	"sms_password":"NaEQZZ",
+	"addUserUrl":"http://app.thinkscream.tech/api/add_user.php?user={user}&pass={pass}"
+}
