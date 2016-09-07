@@ -1,0 +1,10 @@
+{"Timestamp":"Sun Sep 4 18:43:09 IST 2016","RouterIP":"120.62.50.210"
+,"RouterMAC":"10:FE:ED:40:79:66", "NodeList":[
+{"MAC":"C0:EE:FB:D1:8A:E0","IP":"192.168.1.2"
+,"Auth":"yes","UserName":"cuckoo","SessionTime":"54","MaxSessionTime":"80","IdleTime":"47","MaxIdleTime":"0","TotalAccountTime":"66862","MaxTotalAccountTime":"0"
+},
+{"MAC":"BB:DD:FB:VV:8A:E0","IP":"192.168.1.3"
+,"Auth":"yes","UserName":"google","SessionTime":"54","MaxSessionTime":"80","IdleTime":"47","MaxIdleTime":"0","TotalAccountTime":"66862","MaxTotalAccountTime":"0"
+},
+{}
+], "ChilliStatus":"online"}
