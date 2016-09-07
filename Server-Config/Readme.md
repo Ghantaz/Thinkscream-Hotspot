@@ -6,4 +6,4 @@ This contains three folders which are different webpages
 
 3) Login is the captive portal
 
-The misc folder contains the server config files for freeradius.
+The misc folder contains the server config files for freeradius. (mysql user: root password:raspbian)
